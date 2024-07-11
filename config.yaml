@@ -1,0 +1,14 @@
+server:
+  port: 8080
+  host: localhost
+
+database:
+  user: user
+  password: pass
+  name: default
+  host: localhost
+  port: 3306
+
+kafka:
+  brokers:
+    - localhost:9092
